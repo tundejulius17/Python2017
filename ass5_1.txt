@@ -1,0 +1,5 @@
+bread;3.99;9
+beer;2.50;5
+coke;2.10;5
+milk;1.8;5
+pepsi;2.5;8

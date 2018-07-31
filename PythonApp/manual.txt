@@ -1,0 +1,14 @@
+This is a Python GUI application which provides user interfaces for handling the data of products, 
+customers and orders on mysql.cc.puv.fi database server.
+
+The application provides separate windows for inserting, modifying, deleting, and 
+searching and displaying the data of products, customers and orders.
+
+The application can be run on any platform where Python 3 is installed since the application is written in Python 3.
+
+Python 3 will have to be installed for the application to work properly.
+
+The user will have to connect to the database to perform each operation as the applcation has been designed to close the database
+connection after each operation. This is to free database resources after each operation.
+
+The database name, username and password has been provided in the source code and the neccessary tables have been created.
